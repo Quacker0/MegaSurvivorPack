@@ -22,9 +22,9 @@ namespace MegaSurvivorPack
     public const string PluginGUID = PluginAuthor + "." + PluginName;
     public const string PluginAuthor = "Quacker";
     public const string PluginName = "MegaSurvivorPack";
-    public const string PluginVersion = "1.0.0";
+    public const string PluginVersion = "1.0.1";
     public const bool resize = false;
-        
+     
 
         public void Awake()
     {
@@ -97,7 +97,7 @@ namespace MegaSurvivorPack
         GameObject finalcopy = bodycopy.GetComponent<ModelLocator>().modelTransform.gameObject;
 
                 
-                    finalcopy.transform.localScale -= new Vector3(i.modelsize, i.modelsize, i.modelsize);
+                    //finalcopy.transform.localScale -= new Vector3(i.modelsize, i.modelsize, i.modelsize);
                     //bodycopy.transform.localScale -= new Vector3(i.modelsize, i.modelsize, i.modelsize);
 
                     if (i.flyer)

@@ -40,12 +40,16 @@ I do not know if i will continue to update this mod the source is in git feel fr
 (Note i have post build events in the csproj)
 
 _________________ NEW Changelog _________________
+version 1.0.1
+- fixed some survivors being resied
+
 version 1.0.0
 - recreated mod from scratch
 
 
 
 _________________ OLD Changelog _________________
+
 version 4.0.2
 - fixed latest version
 version 4.0.1

@@ -17,6 +17,9 @@
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
     <Exec Command="copy /Y &quot;$(TargetDir)$(ProjectName).dll&quot; &quot;B:\r2modman\RiskOfRain2\profiles\dev\BepInEx\plugins\MegaSurvivorPack\$(ProjectName).dll&quot;" />
     <Exec Command="copy /Y &quot;$(TargetDir)$(ProjectName).pdb&quot; &quot;B:\r2modman\RiskOfRain2\profiles\dev\BepInEx\plugins\MegaSurvivorPack\$(ProjectName).pdb&quot;" />
+
+    <Exec Command="copy /Y &quot;$(TargetDir)$(ProjectName).dll&quot; &quot;E:\c#\ROR2 Mods\MSP releases\$(ProjectName).dll&quot;"/>
+   
   </Target>
 
 </Project>
