@@ -3,7 +3,7 @@ Mega Survivor Pack
 My discord https://discord.gg/rA7MyXSgjR
 
 
-WARNING Most of the "Survivors" are hard to use or impossible to survive very long with and with the larger "Survivors" most of the time they can’t open chests i have somewhat tried to fix this but it is still a problem
+WARNING Most of the "Survivors" are hard to use or impossible to survive very long with and with the larger "Survivors" most of the time they can't open chests i have somewhat tried to fix this but it is still a problem
 
 
 
@@ -39,13 +39,13 @@ Paladin's model is a untextured commando and name is commando in the survivor sc
 I do not know if i will continue to update this mod the source is in git feel free to pull request and il update the mod
 (Note i have post build events in the csproj)
 
-_________________ NEW Changelog ---------
+_________________ NEW Changelog _________________
 version 1.0.0
 - recreated mod from scratch
 
 
 
------------------ OLD Changelog ---------
+_________________ OLD Changelog _________________
 version 4.0.2
 - fixed latest version
 version 4.0.1
