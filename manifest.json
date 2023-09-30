@@ -1,0 +1,10 @@
+{
+  "name": "MegaSurvivorPack",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Quacker0/MegaSurvivorPack",
+  "description": "This mod lets you play as most of the playable monsters and adds the unfinished survivors",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2113",
+    "ttristanmcpherson-R2API-5.0.5"
+  ]
+}
